@@ -21,6 +21,4 @@ repository, [check out our guide, "Forking
 Projects""](http://guides.github.com/overviews/
 forking/). Thanks! :boom: :boom: :boom:
 
-Thanks!
-
-@remekoh
+Thanks! @octocat - You rock!
